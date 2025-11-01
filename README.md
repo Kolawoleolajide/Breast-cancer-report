@@ -85,13 +85,14 @@ The dataset includes 16 columns and 4,000+ patient records with variables such a
 ---
 
 ## 🌐 Project Access
-[📥 Download PBIX File]()
+[📥 Download PBIX File](https://github.com/Kolawoleolajide/Breast-cancer-report/blob/main/Breast%20cancer%201.pbix)
 
 ---
 
 ## 👩‍💻 Author
 **Kolawole Olajide**  
-📧 [Add your contact or LinkedIn here]  
+📧 [https://www.linkedin.com/in/kolawole-olajide/] 
+📱 [+2347033900370]
 💜 *Data speaks — and here, it speaks hope.*
 
 ---
